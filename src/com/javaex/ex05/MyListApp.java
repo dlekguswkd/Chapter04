@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class MyListApp {
 
 	public static void main(String[] args) {
-		//제네릭은 기본자료형응ㄹ 쓸수 없다
+		//제네릭은 기본자료형을 쓸수 없다
 		//ArrayList<int> intList = new ArrayList<int>();
 		
 		ArrayList<Integer> intList = new ArrayList<Integer>();
